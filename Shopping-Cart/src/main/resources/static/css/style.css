@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.card-sh {
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+}
+
+.cat-div {
+	box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
+
+.error {
+	color: red;
+}
+
+.list-group-item.active {
+    background-color: blueviolet !important;
+    border-color: blueviolet !important;
+    color: white !important; /* for text contrast */
+}
+.bg-primary{
+    background-color: blueviolet;
+}
+.btn-primary{
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+.btn-primary:hover{
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+li.page-item.active .page-link {
+    background-color: palevioletred;
+    border-color: palevioletred;
+    color: white;
+}
